@@ -1,0 +1,33 @@
+{
+  "name": "acnh-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Animal Crossing New Horizons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasagar/acnh-bot.git"
+  },
+  "author": "sasagar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sasagar/acnh-bot/issues"
+  },
+  "homepage": "https://github.com/sasagar/acnh-bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.1.0",
+    "bufferutil": "^4.0.1",
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "erlpack": "github:discordapp/erlpack",
+    "libsodium-wrappers": "^0.7.6",
+    "utf-8-validate": "^5.0.2",
+    "zlib-sync": "^0.1.6"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
