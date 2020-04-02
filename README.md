@@ -16,3 +16,8 @@ A Discord bot for Animal Crossing New Horizons
     }  
   ]  
 }
+
+---
+## Contributors
+- HsmtNotiQuo
+- Ippey
